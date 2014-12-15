@@ -1,0 +1,1001 @@
+id,billed_quantity,bol_date,bol_number,buyer_name,consignor_name,diverted,destination_state
+1,664,3/11/2014,84815,Kazio,Jaloo,true,Florida
+2,708,4/19/2014,34913,Chatterbridge,Jabbertype,true,Kentucky
+3,951,10/31/2013,67031,Quire,Pixonyx,false,Illinois
+4,840,5/7/2014,77732,Yabox,Realfire,false,Minnesota
+5,516,3/28/2014,55544,Gevee,Youspan,false,Texas
+6,182,8/11/2014,78857,Realcube,Chatterbridge,true,New York
+7,112,8/17/2014,53816,Oloo,Meevee,true,Florida
+8,557,4/11/2014,46412,Katz,Divavu,false,Ohio
+9,729,10/22/2013,18502,Aivee,JumpXS,true,California
+10,455,12/20/2013,79603,Fiveclub,Npath,false,New York
+11,40,11/20/2013,17203,Mita,Eare,false,California
+12,655,1/25/2014,85652,Omba,Browseblab,true,North Carolina
+13,744,6/14/2014,18058,Tazzy,Skinder,true,Texas
+14,240,8/21/2014,53748,Wikibox,Skyvu,false,Texas
+15,690,11/30/2013,98157,Topicshots,Feedfish,false,Ohio
+16,342,2/23/2014,80001,Flipbug,Bubblemix,false,New York
+17,7,10/11/2013,44500,Youbridge,Dabtype,false,Massachusetts
+18,316,2/9/2014,38294,Yakitri,Mita,false,West Virginia
+19,1000,10/18/2013,95973,Aibox,Meeveo,true,California
+20,103,9/22/2014,1289,Twitterworks,Oyope,true,New Jersey
+21,812,12/13/2013,7871,Muxo,Edgeblab,true,Oklahoma
+22,919,7/17/2014,12955,Pixonyx,Rhynoodle,true,Virginia
+23,778,3/2/2014,55038,Minyx,Quatz,false,New Jersey
+24,480,9/29/2014,16663,Riffpedia,Yata,true,Massachusetts
+25,558,6/3/2014,70770,Meembee,Tazzy,false,Connecticut
+26,159,5/15/2014,10639,Brainfire,Yakidoo,false,Oklahoma
+27,62,6/27/2014,64252,Devpulse,Katz,false,New Jersey
+28,917,6/29/2014,40897,Layo,Twitterlist,true,California
+29,980,5/13/2014,8418,Lajo,Twitterwire,true,New Hampshire
+30,341,7/22/2014,98054,Dazzlesphere,Leexo,false,Virginia
+31,927,4/2/2014,16502,Wikivu,Meetz,true,Connecticut
+32,36,10/17/2013,73905,Voolia,Katz,true,Indiana
+33,205,6/21/2014,69121,Kanoodle,Skimia,false,Michigan
+34,556,11/29/2013,57401,Trupe,Topicstorm,false,Massachusetts
+35,727,8/14/2014,15117,Eazzy,Jabberstorm,true,Ohio
+36,649,1/28/2014,84875,Browseblab,Mydeo,true,Connecticut
+37,796,5/30/2014,51023,Wordware,Quamba,true,North Carolina
+38,506,3/12/2014,69029,Meetz,Oyoyo,false,Minnesota
+39,32,3/23/2014,49707,Centizu,Gigabox,false,Connecticut
+40,360,4/3/2014,1831,Skyble,Yambee,true,Massachusetts
+41,583,5/6/2014,62121,Babbleset,Jayo,false,California
+42,321,6/18/2014,78977,Yata,Yozio,true,Ohio
+43,65,5/30/2014,97610,Dablist,Mudo,true,California
+44,827,9/26/2014,94709,Yombu,Divape,true,Texas
+45,802,10/23/2013,70968,Buzzster,Riffpedia,true,Pennsylvania
+46,792,2/25/2014,762,Podcat,Yabox,true,Minnesota
+47,50,5/19/2014,94623,Riffwire,Cogilith,true,Alabama
+48,368,1/31/2014,43679,Thoughtstorm,Midel,false,Michigan
+49,110,5/13/2014,21565,Jabberstorm,Pixoboo,true,California
+50,433,6/13/2014,38782,Cogilith,Skidoo,true,Michigan
+51,557,1/31/2014,75873,Kazio,Livefish,false,Texas
+52,69,12/11/2013,70806,Ntags,Shufflester,true,Illinois
+53,583,8/5/2014,55618,Minyx,JumpXS,true,Nebraska
+54,847,9/13/2014,76265,Flipbug,Divanoodle,false,Texas
+55,254,5/15/2014,87140,Jabbertype,Avavee,false,Virginia
+56,46,1/17/2014,83553,Oyoloo,Yadel,false,Illinois
+57,600,5/9/2014,43591,Pixonyx,Twitterwire,true,Illinois
+58,684,1/5/2014,5561,Kwideo,Kare,true,Michigan
+59,251,10/21/2013,85783,Twinte,Kwinu,false,Illinois
+60,276,1/15/2014,92935,Cogibox,Eimbee,true,New Jersey
+61,974,7/12/2014,77612,Dynabox,Kamba,true,New York
+62,693,5/14/2014,80628,Skinte,Realcube,true,Texas
+63,146,9/14/2014,70612,Flipopia,Ntags,false,New Jersey
+64,744,7/3/2014,64228,Nlounge,Shuffledrive,true,New Jersey
+65,986,11/15/2013,36138,Meevee,Gabtype,false,Illinois
+66,455,11/12/2013,31956,Dabjam,Aivee,true,Michigan
+67,652,5/20/2014,92206,Kwideo,Mudo,true,Massachusetts
+68,165,4/3/2014,26663,Jetwire,Devify,false,New York
+69,360,9/4/2014,40222,Zoozzy,Aibox,true,Texas
+70,252,1/23/2014,16867,Skinte,Brightbean,true,Indiana
+71,821,12/30/2013,9102,Jabberbean,Dynabox,true,Arkansas
+72,719,5/29/2014,1090,Blogspan,Gabspot,false,Florida
+73,541,12/13/2013,56334,Thoughtblab,Twiyo,false,Colorado
+74,168,12/13/2013,19318,Zoonder,Feedfish,false,New York
+75,777,1/8/2014,24987,Snaptags,Oyonder,false,Ohio
+76,927,9/27/2014,83649,Skajo,Katz,false,Illinois
+77,103,2/3/2014,9499,Voolia,Realblab,true,Virginia
+78,677,12/26/2013,61871,Shufflester,Edgepulse,true,North Carolina
+79,521,10/19/2013,61428,Thoughtbridge,Dynabox,true,Ohio
+80,481,1/26/2014,10148,Realbridge,Rhycero,true,Texas
+81,465,4/19/2014,30501,Jabbersphere,Twimbo,true,Florida
+82,297,9/27/2014,12840,Tanoodle,Twitterbeat,false,Texas
+83,670,2/4/2014,45334,Photojam,Quimm,true,California
+84,58,11/21/2013,91477,Zazio,Mydo,true,Alabama
+85,85,7/4/2014,85058,Jabbertype,Centizu,false,Texas
+86,266,5/9/2014,34963,Babbleblab,Skinix,false,New Jersey
+87,175,5/2/2014,10277,Skaboo,Eabox,true,New York
+88,889,3/31/2014,95724,Linkbuzz,Quinu,true,Maine
+89,732,12/6/2013,11876,Katz,Gigashots,true,Ohio
+90,197,4/8/2014,82696,Eabox,Gabspot,false,Virginia
+91,186,6/10/2014,23329,Kwinu,Zoonoodle,true,California
+92,484,12/24/2013,89623,Yata,Wordpedia,false,Ohio
+93,509,8/12/2014,12304,Realmix,Browseblab,true,New Jersey
+94,536,10/25/2013,3744,Skiptube,Realblab,false,North Carolina
+95,600,12/7/2013,54644,Digitube,Eayo,false,Ohio
+96,322,6/20/2014,56836,Photospace,Blogpad,true,Massachusetts
+97,361,12/3/2013,68459,Realbridge,Babblestorm,true,Florida
+98,378,11/9/2013,67476,Snaptags,Yotz,true,Pennsylvania
+99,507,12/25/2013,43781,Ntag,Gabspot,true,Illinois
+100,304,5/6/2014,46112,Dabtype,Brightdog,false,Ohio
+101,480,7/23/2014,81617,InnoZ,Flashset,false,Texas
+102,647,7/31/2014,85033,Mita,Dabjam,true,Massachusetts
+103,39,12/19/2013,57358,Myworks,Yoveo,true,Rhode Island
+104,208,5/8/2014,61546,Podcat,Livefish,true,California
+105,798,7/13/2014,36771,Tagchat,Tanoodle,false,Michigan
+106,330,11/15/2013,29203,Voolith,Tekfly,true,California
+107,924,3/24/2014,74251,Voolith,Skyba,true,Arkansas
+108,34,8/14/2014,57524,Yakidoo,Fiveclub,true,Massachusetts
+109,556,10/19/2013,63795,Devpoint,Dabjam,false,New York
+110,261,9/20/2014,95411,Livetube,Aibox,true,Massachusetts
+111,113,7/11/2014,20949,Wikibox,Youspan,false,Connecticut
+112,986,11/30/2013,96335,Rhybox,Browsecat,true,Massachusetts
+113,42,7/29/2014,59236,Zoombox,Avamba,true,Minnesota
+114,224,10/10/2013,81380,Jamia,Skynoodle,true,Virginia
+115,427,2/18/2014,23822,Podcat,Edgewire,false,Virginia
+116,254,4/9/2014,31249,Youspan,Npath,false,Texas
+117,985,6/18/2014,2872,Cogidoo,Fliptune,false,Massachusetts
+118,23,3/24/2014,59876,Cogilith,Meembee,false,Minnesota
+119,652,3/27/2014,51552,Yodoo,Devshare,true,Illinois
+120,120,1/22/2014,90152,Bubblebox,Ntag,true,Ohio
+121,459,4/26/2014,89575,Skipstorm,Thoughtworks,false,West Virginia
+122,805,2/10/2014,71019,Zoomlounge,Kwideo,true,Alabama
+123,267,5/17/2014,45665,Skiptube,Meejo,false,Pennsylvania
+124,666,11/16/2013,18513,Gabcube,Skajo,true,California
+125,509,12/17/2013,14697,Eabox,Thoughtworks,true,Alabama
+126,268,7/26/2014,56485,Divanoodle,Livetube,false,Virginia
+127,722,1/3/2014,50170,Wordtune,Photobean,false,West Virginia
+128,467,11/24/2013,65395,Aivee,Jaxworks,false,Connecticut
+129,483,8/20/2014,87669,Jaloo,Divape,false,Massachusetts
+130,279,10/5/2014,70783,Lajo,Photofeed,false,Illinois
+131,446,9/19/2014,20699,Vidoo,Jaxworks,true,Connecticut
+132,455,11/15/2013,91407,Topiczoom,Gigabox,true,Rhode Island
+133,925,3/7/2014,73525,JumpXS,Oozz,true,Texas
+134,152,1/20/2014,93024,Meezzy,Browsebug,true,Indiana
+135,813,10/25/2013,81722,Zooveo,Blogtag,true,Minnesota
+136,203,6/1/2014,7658,Voonte,Voonix,false,Virginia
+137,209,8/31/2014,81213,Abatz,Thoughtmix,false,Illinois
+138,452,10/4/2014,88049,Topicstorm,Yacero,true,New Jersey
+139,464,4/8/2014,25617,Twitterlist,Demivee,false,Massachusetts
+140,9,3/19/2014,90387,Bubblebox,Topicblab,true,Massachusetts
+141,476,8/20/2014,12622,Browsetype,Skynoodle,true,California
+142,603,8/11/2014,49525,Topicblab,Jabberbean,false,Texas
+143,822,9/17/2014,51482,Layo,Youtags,false,Virginia
+144,343,6/11/2014,95807,Gabvine,Chatterpoint,false,Minnesota
+145,185,6/28/2014,67443,Pixonyx,Voomm,true,Ohio
+146,346,7/31/2014,66385,Brightbean,Cogilith,true,Florida
+147,698,11/26/2013,18940,Edgeblab,Jetpulse,false,Arkansas
+148,332,1/6/2014,39483,Wordpedia,Brightbean,false,California
+149,1,12/14/2013,16830,Gabspot,Linklinks,false,California
+150,511,8/16/2014,2342,Tazz,Yodoo,true,Nebraska
+151,413,5/19/2014,12896,Shufflebeat,Thoughtblab,true,Florida
+152,572,7/31/2014,83964,Innotype,Zoozzy,true,California
+153,992,3/9/2014,42700,Aivee,Tagchat,false,Ohio
+154,804,7/11/2014,65109,Yakijo,Skiptube,true,Alabama
+155,103,10/19/2013,15231,Feedspan,Kayveo,true,Virginia
+156,772,7/21/2014,38266,Lazzy,Voonder,true,Iowa
+157,395,12/1/2013,68394,Aimbu,InnoZ,false,Michigan
+158,15,5/20/2014,26433,Eare,Zoonder,false,Indiana
+159,321,8/8/2014,9317,Snaptags,Kanoodle,false,Nebraska
+160,689,9/8/2014,56392,Meemm,Vipe,false,Illinois
+161,92,2/20/2014,24249,Izio,Photospace,true,California
+162,957,4/1/2014,32398,Myworks,Ntags,true,New York
+163,968,11/6/2013,37772,Shuffledrive,Riffpedia,true,Minnesota
+164,834,12/14/2013,52053,Youfeed,Voomm,true,Ohio
+165,436,11/24/2013,90987,Yotz,LiveZ,false,Indiana
+166,666,4/28/2014,95538,Skimia,Fivebridge,true,California
+167,353,5/13/2014,2369,Agivu,Yabox,true,Alabama
+168,544,10/8/2013,85417,Roodel,Voonder,false,Illinois
+169,858,6/13/2014,83890,Flashset,Brainsphere,true,Florida
+170,855,1/4/2014,19218,Wordtune,Latz,true,Pennsylvania
+171,459,5/6/2014,95751,Chatterpoint,Chatterbridge,true,Virginia
+172,363,10/10/2013,32442,Mybuzz,Skinix,true,California
+173,617,8/16/2014,8003,Cogibox,Skimia,false,California
+174,27,6/8/2014,63629,Skimia,Linktype,false,Illinois
+175,646,2/17/2014,25781,Agimba,Rhyloo,false,Texas
+176,684,6/14/2014,18037,Blogtags,Mynte,true,California
+177,404,4/11/2014,54966,Linklinks,Babbleopia,true,Nebraska
+178,252,9/3/2014,163,Oyondu,Browsebug,false,Connecticut
+179,616,10/8/2013,76663,Devpulse,Thoughtstorm,false,New Jersey
+180,791,6/18/2014,67312,Lazzy,Pixonyx,true,Indiana
+181,447,9/9/2014,13168,Livepath,Trudeo,true,Illinois
+182,795,4/15/2014,96854,Eire,Realpoint,false,Illinois
+183,60,5/7/2014,14678,Jabberstorm,Gabspot,false,New York
+184,323,11/10/2013,6614,Realmix,Quinu,true,Ohio
+185,455,4/9/2014,29896,Tazz,Divavu,true,New York
+186,462,2/10/2014,39025,Linkbuzz,Fanoodle,false,Illinois
+187,725,9/29/2014,85518,Edgepulse,Yodoo,true,Texas
+188,748,6/10/2014,62445,Tagcat,Oodoo,true,Michigan
+189,312,11/1/2013,9641,Roombo,Realbuzz,true,Illinois
+190,263,9/13/2014,78785,Minyx,Plajo,true,California
+191,611,10/20/2013,86166,Skipfire,Dabfeed,true,New Jersey
+192,153,2/11/2014,64410,Kare,Centidel,false,Alabama
+193,965,5/5/2014,75623,Bubbletube,Trilith,false,Pennsylvania
+194,677,12/21/2013,30442,Vidoo,Chatterpoint,false,California
+195,341,4/6/2014,69922,Skimia,Realmix,true,Colorado
+196,139,7/9/2014,13516,Feednation,Oozz,true,Minnesota
+197,734,8/29/2014,15298,Dabtype,Edgewire,false,New Jersey
+198,661,10/9/2013,3752,Skipstorm,Zoomzone,false,Connecticut
+199,136,8/9/2014,8887,Leexo,Quamba,true,Minnesota
+200,547,2/3/2014,75100,Wikido,Fliptune,true,Florida
+201,306,8/6/2014,39936,Oloo,Skivee,false,Michigan
+202,5,11/26/2013,8794,Nlounge,Midel,true,Texas
+203,825,9/21/2014,42316,Youfeed,Pixonyx,false,Virginia
+204,137,5/16/2014,50472,Nlounge,Jaxspan,false,Connecticut
+205,897,10/17/2013,43820,Yata,Thoughtbridge,true,California
+206,193,5/10/2014,30939,Babbleopia,Browsedrive,true,Texas
+207,463,11/13/2013,19527,Flipopia,Ntag,false,California
+208,949,3/29/2014,83560,Yodoo,Wikibox,true,Texas
+209,555,8/6/2014,52336,Voomm,Thoughtworks,false,Ohio
+210,250,12/20/2013,35334,Brightdog,Thoughtbeat,true,North Carolina
+211,865,3/3/2014,20894,Tanoodle,Browsezoom,true,New York
+212,886,2/7/2014,1417,Rooxo,Twinder,false,Ohio
+213,933,2/25/2014,94979,Thoughtblab,Agivu,false,Michigan
+214,790,1/25/2014,73276,Thoughtbeat,Flashspan,false,Texas
+215,538,4/12/2014,66523,Meemm,Voonder,true,New York
+216,629,8/19/2014,36760,Realcube,Babbleset,false,California
+217,840,10/3/2014,96298,Twiyo,Skipfire,false,New Jersey
+218,797,12/21/2013,74976,Eire,BlogXS,true,New York
+219,494,3/26/2014,54959,Babbleopia,Buzzster,false,New Jersey
+220,482,10/14/2013,55891,Kwideo,Yoveo,true,New Jersey
+221,15,8/26/2014,28162,Bluejam,Dabvine,true,Florida
+222,139,10/11/2013,94032,Jabbersphere,Zazio,false,Delaware
+223,762,11/29/2013,65161,Browsetype,Voonder,false,Illinois
+224,103,6/7/2014,20353,Jamia,Yata,true,Illinois
+225,820,1/9/2014,35608,Roomm,Wikibox,false,New York
+226,321,4/2/2014,23946,Thoughtmix,JumpXS,true,California
+227,272,7/20/2014,36257,Wikibox,Oodoo,true,Michigan
+228,130,7/19/2014,20476,InnoZ,Feedfish,true,California
+229,836,7/25/2014,72774,Flashset,Chatterbridge,false,Virginia
+230,248,3/30/2014,61985,Blognation,Avamba,true,California
+231,706,8/4/2014,60724,LiveZ,Eabox,false,California
+232,561,12/4/2013,42607,Voolia,Skyvu,false,Connecticut
+233,46,2/17/2014,33154,Youopia,Yodel,true,New Jersey
+234,977,4/13/2014,55558,Skipstorm,Divape,true,Virginia
+235,868,2/17/2014,64421,Rhyzio,Jabberstorm,false,Texas
+236,838,6/9/2014,76543,Livetube,Ailane,false,New Hampshire
+237,67,9/27/2014,86282,Tazz,Aibox,false,California
+238,164,6/26/2014,2804,Photolist,Realcube,false,Massachusetts
+239,194,1/23/2014,19425,Buzzdog,DabZ,true,New York
+240,898,3/29/2014,26935,Skimia,Realfire,true,Ohio
+241,120,5/31/2014,81924,Roombo,Meeveo,true,Ohio
+242,535,2/26/2014,47583,Dablist,Jabberstorm,false,Minnesota
+243,542,4/1/2014,75294,Oba,Rhyzio,false,Massachusetts
+244,132,9/19/2014,45079,Youspan,Gigaclub,true,California
+245,448,3/11/2014,75227,Wordtune,Talane,false,Massachusetts
+246,287,8/8/2014,51279,Livepath,Browsedrive,false,New York
+247,959,8/23/2014,84920,Twinte,Edgeclub,false,California
+248,642,2/28/2014,61450,Vinder,Zoomcast,true,Oklahoma
+249,292,11/27/2013,71456,Oodoo,Zava,true,Illinois
+250,829,10/22/2013,27573,Gabcube,Topicshots,false,Maine
+251,724,1/12/2014,96460,Babblestorm,Wikizz,false,Oklahoma
+252,604,5/31/2014,82378,Vitz,Youopia,false,New York
+253,757,4/12/2014,81048,Kwideo,Yakitri,true,Massachusetts
+254,715,11/25/2013,60940,Topicware,Cogilith,true,Massachusetts
+255,85,1/5/2014,88962,Kamba,Avaveo,false,Alabama
+256,881,2/28/2014,12800,Eadel,Photobean,true,California
+257,537,7/5/2014,2093,Edgewire,Edgeclub,true,Massachusetts
+258,629,3/17/2014,20676,Zoonder,Riffpath,true,California
+259,527,5/27/2014,63111,Kazio,Skibox,false,North Carolina
+260,685,5/18/2014,2353,Tavu,Yodel,true,New Jersey
+261,468,11/25/2013,51124,Eadel,Jaloo,false,Pennsylvania
+262,674,8/31/2014,94802,Kanoodle,Linkbuzz,true,Texas
+263,935,5/29/2014,47197,Shufflebeat,Wordware,true,Texas
+264,630,10/20/2013,26040,Jetwire,Quaxo,true,New York
+265,93,5/10/2014,79142,Quire,Layo,false,New York
+266,162,8/4/2014,28686,Gabvine,DabZ,true,Illinois
+267,330,3/13/2014,7849,Photobean,Podcat,true,Texas
+268,15,3/2/2014,80616,Twinte,Photobean,false,California
+269,775,1/20/2014,69794,Skiba,Oyondu,true,Florida
+270,193,11/5/2013,72984,Skiptube,Tazzy,true,Illinois
+271,810,9/28/2014,36936,Thoughtblab,Fadeo,false,Texas
+272,598,12/30/2013,28016,Fivebridge,Dablist,false,California
+273,107,4/14/2014,6081,Jaxspan,Yoveo,true,Ohio
+274,511,8/7/2014,42456,Fliptune,Flashdog,true,California
+275,299,6/2/2014,37862,Trilith,Oyope,true,Nebraska
+276,453,4/16/2014,72402,Roomm,Skidoo,false,Connecticut
+277,716,12/24/2013,58384,Yamia,Voonte,true,Virginia
+278,145,11/27/2013,69615,Trudeo,Eare,true,Indiana
+279,21,6/4/2014,86463,Brightdog,Gigashots,false,Michigan
+280,5,11/22/2013,30485,Voonder,Gigabox,true,California
+281,572,6/22/2014,19421,Wikibox,Meeveo,false,Indiana
+282,617,9/11/2014,98448,Divape,Pixope,false,New Jersey
+283,829,1/23/2014,13874,Livepath,Devbug,false,Texas
+284,801,4/30/2014,39545,Wordify,Gabcube,false,Illinois
+285,382,8/18/2014,2270,Thoughtbeat,Quatz,false,Ohio
+286,995,9/2/2014,22248,Demizz,Divanoodle,true,California
+287,612,8/23/2014,53637,Zava,Tambee,false,Arkansas
+288,342,3/19/2014,36658,Oyondu,Vinte,true,West Virginia
+289,810,11/15/2013,77477,Layo,Quamba,false,California
+290,313,8/14/2014,59299,Gabtype,Edgeify,false,Illinois
+291,552,6/7/2014,27805,Skipfire,Digitube,false,North Carolina
+292,937,8/29/2014,3399,Dabtype,Dabvine,false,Iowa
+293,522,1/2/2014,13477,Tavu,Edgewire,true,Ohio
+294,479,4/18/2014,43051,Skajo,Talane,false,California
+295,497,7/11/2014,91019,Aimbo,Fadeo,true,Ohio
+296,174,7/7/2014,56903,Skajo,Mita,false,New Jersey
+297,137,2/10/2014,10862,Twinte,Brainverse,true,Ohio
+298,988,7/6/2014,30978,Jaloo,Thoughtbridge,true,California
+299,551,10/21/2013,63102,Realcube,Aivee,true,Alabama
+300,640,5/26/2014,60529,Edgewire,Eabox,true,Oklahoma
+301,756,10/3/2014,69370,Mydeo,Yozio,false,Indiana
+302,353,10/27/2013,54716,Ntag,Katz,true,Connecticut
+303,589,2/16/2014,35976,Devshare,Flashdog,false,New York
+304,419,4/14/2014,5562,Jaxbean,Twitterlist,false,California
+305,55,12/13/2013,96180,Dynava,Linklinks,true,Texas
+306,485,3/28/2014,12670,Brainlounge,Quinu,true,Massachusetts
+307,701,5/22/2014,30854,Edgeify,DabZ,true,Illinois
+308,463,11/19/2013,43181,Abatz,Skivee,true,Texas
+309,785,8/2/2014,2637,Agivu,Skimia,true,Massachusetts
+310,83,8/16/2014,96084,Gabspot,Twimbo,false,California
+311,262,11/27/2013,60114,Rhycero,Youopia,true,Virginia
+312,682,5/13/2014,43478,Edgeblab,Oozz,true,Connecticut
+313,638,11/14/2013,52242,Trudoo,Vipe,false,North Carolina
+314,521,6/8/2014,32893,Cogibox,Janyx,false,Ohio
+315,362,1/19/2014,80462,Skiptube,LiveZ,false,Illinois
+316,573,7/31/2014,51726,Oodoo,Mynte,true,New Jersey
+317,656,2/14/2014,85022,Eire,Yakijo,false,Texas
+318,958,4/11/2014,90095,Aivee,Flashdog,true,Arkansas
+319,460,5/25/2014,38121,Gigaclub,Zoomlounge,false,Florida
+320,867,12/20/2013,17521,JumpXS,Tagtune,true,New Jersey
+321,357,6/18/2014,84495,Browseblab,Youbridge,false,Delaware
+322,535,4/27/2014,74570,Latz,Kwimbee,false,Massachusetts
+323,733,5/17/2014,30325,Edgeclub,Yamia,false,Alabama
+324,180,8/6/2014,23694,Photolist,Eimbee,true,Indiana
+325,93,8/5/2014,3366,Voonder,Camido,false,Florida
+326,821,5/21/2014,6884,Edgeify,Linklinks,true,New Jersey
+327,270,2/28/2014,14658,Wordware,Realcube,true,California
+328,316,2/17/2014,42327,Innotype,Fliptune,false,Minnesota
+329,46,6/27/2014,30447,Buzzshare,Browsebug,true,New York
+330,991,9/14/2014,54137,Devpulse,Jabberstorm,true,California
+331,594,12/14/2013,74492,Jaxbean,Ainyx,true,New Hampshire
+332,431,10/21/2013,55619,Vidoo,Aivee,true,New Jersey
+333,366,9/22/2014,19628,Npath,Riffpath,true,Ohio
+334,264,5/31/2014,93517,Lazzy,Voonder,false,Texas
+335,765,12/6/2013,19098,Vimbo,Feedfire,false,North Carolina
+336,479,3/30/2014,4988,Trilith,Jazzy,true,New Jersey
+337,709,9/10/2014,76029,Eazzy,Wikivu,true,New Jersey
+338,618,10/3/2014,79990,Fiveclub,Plajo,true,Michigan
+339,481,8/10/2014,36865,Zoomlounge,Agimba,true,Florida
+340,466,11/22/2013,47624,Browseblab,Bluezoom,false,California
+341,580,9/30/2014,4103,Quire,Oyoloo,false,Illinois
+342,762,2/28/2014,1307,Jaloo,Trudoo,true,Texas
+343,881,12/4/2013,11503,Zoomlounge,Brainverse,false,Florida
+344,540,2/4/2014,22606,Vinte,Eadel,false,Michigan
+345,762,2/2/2014,87004,Gabvine,Yata,true,California
+346,185,4/17/2014,51995,Zoomlounge,Brightdog,true,Texas
+347,127,8/5/2014,19881,Shuffletag,Ntag,true,Illinois
+348,894,1/2/2014,78095,Shuffledrive,Twitterwire,true,New York
+349,889,7/12/2014,38998,Twitterwire,Oyope,true,Illinois
+350,876,3/3/2014,5978,Kayveo,Flashset,false,Florida
+351,646,7/31/2014,59450,Ainyx,Jaxspan,false,California
+352,723,9/23/2014,64414,Linktype,Miboo,false,New Hampshire
+353,668,10/2/2014,38210,Kanoodle,Oyoba,false,Texas
+354,814,10/25/2013,29587,Meevee,Devshare,false,Ohio
+355,200,7/17/2014,52998,Cogibox,Pixonyx,false,Oklahoma
+356,59,5/3/2014,53836,Roodel,Innotype,true,Indiana
+357,535,3/13/2014,88514,Dynabox,Skippad,false,Illinois
+358,374,1/24/2014,30681,Mydeo,Quimm,true,New York
+359,348,3/28/2014,19549,Layo,BlogXS,true,Minnesota
+360,948,9/7/2014,66611,Oyope,Gabvine,false,Michigan
+361,505,5/4/2014,85075,Wikibox,Devshare,false,Ohio
+362,226,11/9/2013,25793,Browseblab,Pixope,false,Minnesota
+363,309,8/7/2014,38309,Youspan,Rooxo,true,Texas
+364,560,8/6/2014,81476,Zoovu,Bluejam,false,Iowa
+365,671,9/29/2014,98699,Bubblemix,Plambee,true,New York
+366,678,10/23/2013,7425,Aimbu,Ooba,true,
+367,704,1/15/2014,60477,Youspan,Brightdog,true,California
+368,98,1/21/2014,9125,Jaxnation,Linkbridge,true,New Jersey
+369,398,3/6/2014,23956,Feedmix,Gigashots,false,Illinois
+370,702,2/15/2014,8142,Dablist,Livepath,false,Connecticut
+371,761,10/20/2013,65930,Brainverse,Fivebridge,false,Texas
+372,820,1/27/2014,48565,Jamia,Feedbug,false,Texas
+373,241,1/25/2014,76751,Katz,Browsetype,true,Ohio
+374,992,10/10/2013,19323,Jaxbean,Jayo,true,Ohio
+375,106,2/25/2014,6025,Chatterpoint,Babbleset,true,Massachusetts
+376,262,12/3/2013,19909,Tagcat,Jaloo,true,Illinois
+377,170,7/10/2014,54776,Realbuzz,Babblestorm,false,Minnesota
+378,218,12/29/2013,44595,Cogilith,Vinte,false,New York
+379,934,8/22/2014,27198,Yamia,Mynte,true,California
+380,848,2/26/2014,20481,Linklinks,Twiyo,false,California
+381,849,4/18/2014,85822,Blognation,Eare,true,Virginia
+382,982,5/23/2014,61248,Babbleblab,Meevee,false,Michigan
+383,479,12/28/2013,65446,Skimia,Dabjam,true,Texas
+384,652,10/29/2013,81396,Voomm,Jaxworks,true,Illinois
+385,645,7/28/2014,65954,Jabberstorm,Teklist,false,Florida
+386,160,11/30/2013,51304,Fadeo,Voonix,true,Illinois
+387,545,7/18/2014,88676,Wikizz,Fivebridge,false,New York
+388,28,12/31/2013,40874,Lazzy,Fivebridge,true,Illinois
+389,180,3/3/2014,50824,Kwimbee,Skinder,false,New York
+390,59,2/18/2014,15125,Babbleset,Skinder,true,Ohio
+391,909,12/13/2013,82580,Bluejam,Minyx,true,Massachusetts
+392,331,1/10/2014,72761,Oba,Skimia,true,Oklahoma
+393,684,11/17/2013,73554,Shufflebeat,Talane,false,New Jersey
+394,560,8/22/2014,12329,Skinix,Meedoo,false,Ohio
+395,412,5/24/2014,22691,Katz,Babbleopia,false,Ohio
+396,452,1/15/2014,15450,Wikibox,Youbridge,false,Massachusetts
+397,971,6/7/2014,2065,Yombu,Photobug,false,California
+398,157,12/11/2013,33589,Topiczoom,LiveZ,false,Florida
+399,748,4/25/2014,37430,Meedoo,Quatz,true,California
+400,403,9/15/2014,14248,Camido,Devcast,false,Minnesota
+401,11,9/26/2014,96397,Skivee,Skilith,true,Florida
+402,582,5/18/2014,66540,Oyoyo,Meetz,true,Iowa
+403,528,12/17/2013,55948,Midel,Skipfire,true,Massachusetts
+404,415,10/25/2013,27799,Fivechat,Blogtag,false,New York
+405,941,5/2/2014,38514,Livefish,Pixoboo,false,Nebraska
+406,792,10/12/2013,58033,Jabbersphere,Kayveo,false,California
+407,287,12/4/2013,69884,Jazzy,Skajo,false,Michigan
+408,747,11/20/2013,28168,Roombo,Edgepulse,true,New York
+409,150,6/22/2014,19668,Cogibox,Plajo,true,Ohio
+410,306,4/9/2014,13914,Zooveo,Ozu,false,Texas
+411,463,1/28/2014,79881,Dabfeed,Zoozzy,false,Ohio
+412,668,12/11/2013,10170,Browsedrive,Skibox,true,California
+413,435,8/12/2014,10892,Ailane,Midel,false,Illinois
+414,149,4/2/2014,13196,Avaveo,Realbuzz,false,Texas
+415,201,10/7/2013,48294,Miboo,Twimm,true,Florida
+416,808,3/2/2014,37580,Jabberbean,Babbleblab,false,Indiana
+417,276,6/15/2014,24607,Trudeo,Topicstorm,true,Oklahoma
+418,289,5/7/2014,450,Yombu,Tambee,false,Connecticut
+419,278,8/31/2014,92685,Oyonder,Mybuzz,false,Virginia
+420,48,12/5/2013,42084,Dabshots,Babbleblab,false,California
+421,112,5/9/2014,92993,Yodo,Realbridge,false,Illinois
+422,996,9/30/2014,80961,Demimbu,Gevee,false,Michigan
+423,989,7/19/2014,91402,BlogXS,Twiyo,false,California
+424,180,11/30/2013,58289,Thoughtblab,Brainverse,true,Connecticut
+425,411,5/8/2014,96597,Camimbo,Twitterbridge,true,Texas
+426,649,10/28/2013,87212,Meevee,Oyope,true,North Carolina
+427,61,7/11/2014,82352,Mydo,Trilia,true,New Jersey
+428,524,9/17/2014,35569,Teklist,Jetwire,false,Illinois
+429,864,1/20/2014,70439,Livepath,Fivebridge,false,Texas
+430,624,7/19/2014,9860,Realfire,Janyx,false,Colorado
+431,304,11/10/2013,6839,Vinder,Plambee,false,Massachusetts
+432,115,6/19/2014,88980,Skimia,Quinu,false,California
+433,367,12/5/2013,24300,Browsebug,Omba,true,Ohio
+434,784,10/26/2013,41125,Wikizz,Gabvine,false,New York
+435,242,2/26/2014,12672,Twimbo,Divanoodle,false,California
+436,769,12/3/2013,15889,Zooveo,Skaboo,true,California
+437,938,3/26/2014,49308,Skippad,Dabfeed,true,California
+438,527,5/8/2014,30183,Quatz,Kazu,false,Massachusetts
+439,279,11/8/2013,45325,Quatz,Mydeo,false,Connecticut
+440,46,2/18/2014,39928,Skimia,Livepath,true,Florida
+441,307,5/9/2014,20830,Wordware,Rhycero,true,New York
+442,898,3/15/2014,67655,Youopia,Jatri,false,California
+443,615,6/23/2014,93238,Babbleopia,Voonix,false,New York
+444,507,8/6/2014,45148,Browsezoom,Ozu,true,New Hampshire
+445,357,10/17/2013,59587,Roodel,Flashdog,false,Illinois
+446,64,3/27/2014,44427,Photolist,Einti,false,Delaware
+447,54,12/29/2013,95755,Lajo,Kamba,true,Connecticut
+448,403,10/15/2013,27527,Skinix,Avamm,true,Ohio
+449,640,8/29/2014,97228,Teklist,Midel,true,Massachusetts
+450,729,2/14/2014,93218,LiveZ,Camido,false,California
+451,205,4/20/2014,33847,Brainbox,Realblab,true,Florida
+452,386,4/1/2014,57369,Quire,Teklist,false,California
+453,196,2/9/2014,10942,Blogpad,Innotype,false,New York
+454,878,11/10/2013,52767,Jabbersphere,Gabtune,false,Alabama
+455,41,8/16/2014,75590,Meembee,Twitterlist,false,Florida
+456,758,4/10/2014,50118,Nlounge,Browsebug,false,Maine
+457,807,12/23/2013,18674,InnoZ,Wordify,true,Illinois
+458,887,9/18/2014,89949,Yakidoo,Dabshots,true,Connecticut
+459,667,6/15/2014,49375,Trilia,Thoughtstorm,false,Texas
+460,405,1/20/2014,91667,Fivespan,Topdrive,false,Arkansas
+461,700,9/15/2014,25394,Layo,Demizz,false,New York
+462,490,4/29/2014,13727,Roodel,Avaveo,false,North Carolina
+463,39,3/6/2014,31898,Twitterworks,Trunyx,false,Minnesota
+464,426,5/24/2014,83439,Bluezoom,Jaxworks,false,Texas
+465,993,2/4/2014,12349,Fadeo,Brainfire,false,Connecticut
+466,688,8/27/2014,36529,Zoozzy,Dabjam,true,Illinois
+467,112,6/11/2014,63070,Mymm,Aivee,true,Arkansas
+468,867,9/26/2014,51268,Rhyzio,Buzzdog,false,Florida
+469,397,4/26/2014,5395,Jabbertype,Voonte,true,New Jersey
+470,16,2/17/2014,89869,Fivechat,Skajo,true,Connecticut
+471,433,7/13/2014,93858,Pixonyx,Edgeblab,true,New Jersey
+472,42,7/19/2014,22307,Yabox,Digitube,false,Ohio
+473,670,2/23/2014,31013,Realmix,Kwinu,true,New Jersey
+474,444,10/17/2013,45833,Zooveo,Babbleset,true,Alabama
+475,452,2/4/2014,20385,Yozio,Voomm,true,Massachusetts
+476,775,12/19/2013,83366,Jabberbean,Vinder,true,Iowa
+477,50,2/6/2014,3587,Latz,Tekfly,true,Colorado
+478,241,3/6/2014,24491,Eare,Jatri,true,New York
+479,772,2/26/2014,85991,Skyba,Skidoo,true,West Virginia
+480,228,9/8/2014,42637,Livetube,Divape,true,New York
+481,577,11/25/2013,11949,Topicblab,Jetpulse,true,Illinois
+482,735,4/7/2014,53441,Jetpulse,Feedmix,false,Minnesota
+483,763,7/29/2014,45499,Jayo,Jaxworks,true,Illinois
+484,6,3/4/2014,35825,Chatterbridge,Skimia,false,New York
+485,328,4/13/2014,96879,Jabberstorm,Katz,false,California
+486,280,11/26/2013,79223,Fadeo,Trilia,true,Texas
+487,371,3/31/2014,91220,Yabox,Devpoint,true,Illinois
+488,652,6/10/2014,16647,Tavu,Flashdog,true,Illinois
+489,884,1/10/2014,25337,Gabcube,Gabtype,true,Arkansas
+490,800,3/19/2014,26221,Jabbertype,Zoovu,false,Ohio
+491,99,5/25/2014,98259,Oyoyo,Riffpedia,false,California
+492,604,12/24/2013,95397,Twitterlist,Flashpoint,true,California
+493,843,9/3/2014,10621,Topicblab,Skalith,false,Massachusetts
+494,104,6/12/2014,5020,Dablist,Fadeo,true,Florida
+495,360,6/10/2014,7191,Zoomdog,Muxo,false,Connecticut
+496,367,1/2/2014,59944,Tagchat,Yadel,true,California
+497,422,3/30/2014,64218,Leexo,Eimbee,true,Texas
+498,453,4/24/2014,12776,Roombo,Meevee,false,Iowa
+499,372,5/9/2014,24054,Yabox,Snaptags,true,New Jersey
+500,705,10/28/2013,39612,Brainbox,Realpoint,true,New York
+501,131,1/4/2014,93342,Vimbo,Kwimbee,false,Illinois
+502,190,2/14/2014,13697,Fivespan,Tambee,true,New Jersey
+503,436,8/29/2014,14815,Oba,Jabberbean,true,Maine
+504,460,6/12/2014,56078,Mita,Oyonder,false,New York
+505,673,6/24/2014,83725,Yodo,Tazz,false,Illinois
+506,631,2/20/2014,11537,Riffpath,Photobug,false,New York
+507,263,1/6/2014,45227,Ainyx,Yacero,false,North Carolina
+508,369,4/28/2014,82558,Mita,Meezzy,true,Arkansas
+509,111,1/22/2014,67525,Rooxo,Jayo,false,Alabama
+510,409,12/23/2013,36017,Gabcube,Shufflester,true,Florida
+511,650,2/27/2014,25990,Skalith,Devify,true,Indiana
+512,620,1/29/2014,74856,Edgeify,Einti,true,California
+513,853,2/9/2014,5422,Feedfire,Tagtune,false,Florida
+514,317,4/15/2014,13941,Browsebug,Jaloo,false,Texas
+515,940,7/14/2014,30998,Izio,Riffwire,false,Nebraska
+516,11,10/16/2013,91720,Zoomzone,Eayo,false,Massachusetts
+517,52,11/28/2013,36137,Ntags,Blognation,false,Michigan
+518,629,5/4/2014,47533,Zazio,Realcube,false,Florida
+519,427,3/16/2014,24660,Centimia,Oba,false,New York
+520,291,5/10/2014,75463,Eimbee,Buzzster,false,Rhode Island
+521,994,2/5/2014,41295,Youopia,Tanoodle,true,Illinois
+522,973,5/28/2014,84389,Blogtags,Topicware,true,Alabama
+523,385,8/26/2014,49269,Babblestorm,Jaxworks,false,New Hampshire
+524,173,12/27/2013,92396,Wikido,Photobug,true,Connecticut
+525,771,9/29/2014,66379,Skiba,Topiczoom,false,Indiana
+526,898,4/21/2014,67156,Shufflebeat,Edgeclub,false,New Jersey
+527,145,1/21/2014,27457,BlogXS,Meeveo,false,Nebraska
+528,37,2/12/2014,40530,Browseblab,Ozu,true,Ohio
+529,20,8/24/2014,75401,Mydo,Brightbean,true,Michigan
+530,815,10/18/2013,73747,Oyoloo,Eare,false,Illinois
+531,203,9/23/2014,58416,Mydo,Rhybox,false,Minnesota
+532,3,5/10/2014,82439,Dablist,Lazzy,true,Virginia
+533,566,11/30/2013,5704,Bluejam,Gabspot,true,Connecticut
+534,660,4/21/2014,3823,Agimba,Photospace,true,California
+535,54,8/30/2014,51660,Mynte,Photobug,false,Pennsylvania
+536,392,8/2/2014,30371,Linkbridge,Leexo,false,New York
+537,415,3/6/2014,89385,Chatterpoint,Shufflester,true,New Jersey
+538,826,3/27/2014,97264,Twinder,Kwideo,true,California
+539,907,12/29/2013,70783,Oba,Zoombeat,false,California
+540,813,2/23/2014,54993,Rooxo,Wordify,true,New York
+541,616,5/1/2014,81581,Trilia,Eare,false,Ohio
+542,968,9/20/2014,36641,Wikibox,Tavu,false,Michigan
+543,525,12/28/2013,82312,Buzzshare,Tazz,false,New Jersey
+544,253,7/31/2014,40667,Mynte,Yambee,false,California
+545,652,11/7/2013,75850,Kwilith,Quinu,false,New York
+546,258,3/24/2014,57148,Thoughtstorm,Riffpedia,true,Iowa
+547,567,12/25/2013,89534,Edgetag,Jetwire,true,New Jersey
+548,102,12/25/2013,31756,Feedbug,Fiveclub,true,Illinois
+549,65,6/3/2014,44646,Divavu,Devpoint,true,Minnesota
+550,641,10/9/2013,55329,Eadel,Gabspot,true,California
+551,828,6/30/2014,19806,Yamia,Zoozzy,false,Florida
+552,418,1/11/2014,46524,Flashpoint,Buzzster,true,New York
+553,771,7/4/2014,80582,Youopia,Gabtune,false,New Jersey
+554,147,12/16/2013,72318,Ainyx,Jaxworks,false,New York
+555,245,8/19/2014,52450,Skynoodle,Centizu,true,Texas
+556,183,7/17/2014,15438,Tagtune,Fivechat,true,Virginia
+557,108,8/15/2014,11842,Gabvine,Katz,true,Florida
+558,26,9/15/2014,5010,Browseblab,Myworks,false,New Jersey
+559,90,7/2/2014,18819,Jabbercube,Oozz,false,Ohio
+560,267,11/20/2013,27685,Oozz,Twinte,false,New Jersey
+561,64,5/26/2014,57657,Pixope,Zoomzone,true,New Jersey
+562,138,2/10/2014,51261,Edgeblab,Mydeo,true,New York
+563,826,7/18/2014,86407,Kwideo,Yotz,false,Minnesota
+564,355,12/19/2013,83295,Aimbo,Yodoo,true,Illinois
+565,358,4/6/2014,17488,Realbridge,Reallinks,false,Texas
+566,628,9/17/2014,96052,Zoombox,Browseblab,false,Arkansas
+567,811,8/13/2014,15581,Thoughtstorm,Kazio,false,California
+568,329,1/14/2014,4340,Realblab,Realfire,false,California
+569,851,5/14/2014,95420,Brainsphere,Bubblebox,true,Texas
+570,523,5/7/2014,98773,Skidoo,Dabshots,false,Illinois
+571,103,5/26/2014,21765,Lazzy,Gabspot,false,Massachusetts
+572,871,5/23/2014,13013,Ntags,Mudo,true,California
+573,164,7/29/2014,74078,Browsebug,Tagopia,true,Massachusetts
+574,197,11/14/2013,46022,Divape,Plambee,false,New Jersey
+575,327,5/3/2014,78750,Brainfire,Topiczoom,true,Ohio
+576,214,5/4/2014,71543,Twitterwire,Topicshots,true,Michigan
+577,363,8/15/2014,59489,Demivee,Browsezoom,true,Oklahoma
+578,177,8/4/2014,40829,Plajo,Ooba,true,Massachusetts
+579,546,5/14/2014,94938,Browsebug,Aibox,true,Oklahoma
+580,95,10/16/2013,97715,Thoughtblab,Wikizz,true,Pennsylvania
+581,72,9/5/2014,10967,Oyoyo,Camimbo,true,Nebraska
+582,49,8/12/2014,8860,Viva,Buzzshare,true,California
+583,733,9/19/2014,70789,Meevee,Linkbridge,true,Arkansas
+584,906,5/18/2014,76466,Demizz,Brainbox,false,Minnesota
+585,401,8/2/2014,19456,Katz,Dabjam,false,New Jersey
+586,517,12/1/2013,15699,Edgeify,LiveZ,true,California
+587,379,6/18/2014,13156,Photobug,Tagfeed,true,Alabama
+588,936,8/25/2014,72423,Skinix,Ntag,false,New Jersey
+589,858,6/26/2014,42530,JumpXS,Quamba,false,Minnesota
+590,198,10/11/2013,74669,Oyonder,Topicblab,false,Illinois
+591,221,10/21/2013,90181,Zooveo,Livefish,true,New Jersey
+592,25,12/20/2013,80209,Wikizz,Tazzy,true,New York
+593,214,6/30/2014,68337,Wordpedia,Eire,false,Illinois
+594,345,1/12/2014,25330,Divavu,Youbridge,false,North Carolina
+595,110,12/12/2013,95800,Shuffletag,Zoomcast,true,Virginia
+596,431,1/24/2014,3992,Trudoo,Twinte,false,Illinois
+597,488,7/18/2014,54811,Minyx,Zoonoodle,false,Rhode Island
+598,391,1/9/2014,36554,Fivespan,Voonte,true,New Hampshire
+599,157,8/29/2014,40503,Innojam,Viva,false,Nebraska
+600,382,8/2/2014,92524,Agivu,Rhybox,true,North Dakota
+601,501,10/15/2013,48511,Gabtype,Leexo,true,New Jersey
+602,651,1/4/2014,56969,Yakidoo,Voonte,false,Virginia
+603,282,2/28/2014,90738,Zoomlounge,Tazz,false,Iowa
+604,704,1/1/2014,65350,Riffpath,Linktype,true,Oklahoma
+605,60,8/18/2014,16138,Topiczoom,Jabberbean,true,Illinois
+606,982,11/9/2013,85878,Bubblemix,Realcube,true,Alabama
+607,360,9/10/2014,84076,Brainlounge,Dabtype,true,California
+608,328,6/26/2014,31914,Yoveo,Rhynyx,false,New Jersey
+609,285,4/6/2014,50902,Yodoo,Minyx,true,Rhode Island
+610,476,8/3/2014,28354,Zoomcast,Quaxo,true,California
+611,201,2/8/2014,93236,Fanoodle,Edgeblab,false,Illinois
+612,933,11/26/2013,73175,Eamia,Mymm,false,California
+613,439,1/24/2014,67103,Flashset,Meeveo,false,California
+614,231,11/25/2013,28634,Bluejam,Fivespan,true,Michigan
+615,565,9/16/2014,60158,Buzzster,Twimbo,true,Massachusetts
+616,899,3/12/2014,33774,Katz,Browsecat,false,Michigan
+617,252,8/6/2014,20644,Rhyzio,Npath,true,Michigan
+618,747,4/8/2014,1519,JumpXS,Linklinks,false,Texas
+619,675,6/12/2014,27278,Zoombox,Digitube,true,Ohio
+620,159,6/7/2014,12518,Riffpedia,Tazzy,true,Massachusetts
+621,512,2/17/2014,48958,Omba,Browsedrive,false,Colorado
+622,877,2/8/2014,97912,Wikido,Topdrive,true,Oklahoma
+623,983,9/28/2014,67912,Gabvine,Feednation,false,New York
+624,198,6/5/2014,64734,Katz,Avavee,true,Iowa
+625,367,9/25/2014,42066,Edgeclub,Devpoint,true,North Carolina
+626,237,6/29/2014,6996,Wikibox,Katz,false,California
+627,654,10/25/2013,30010,Demivee,Gigashots,true,California
+628,906,3/6/2014,65849,Kimia,Divape,false,Virginia
+629,703,1/14/2014,17572,Vidoo,Viva,false,Oklahoma
+630,770,12/7/2013,15739,Dablist,Quimba,true,Colorado
+631,371,8/8/2014,60037,Twitterlist,Realblab,true,California
+632,383,2/13/2014,54621,Quire,Myworks,true,California
+633,523,11/9/2013,93217,Reallinks,Wordtune,false,Florida
+634,872,4/20/2014,94989,Chatterpoint,Zoozzy,false,Texas
+635,991,2/1/2014,13909,Yacero,Jamia,false,Ohio
+636,905,4/21/2014,20036,Devbug,Oyoloo,true,New York
+637,821,10/29/2013,1749,Kaymbo,Divavu,true,North Carolina
+638,437,12/21/2013,77184,Pixoboo,Livepath,true,Ohio
+639,761,9/10/2014,67029,Layo,Trudeo,true,Texas
+640,158,7/4/2014,81302,Skyble,Brainverse,true,New York
+641,423,9/11/2014,66447,Kimia,Vitz,false,New Jersey
+642,204,10/25/2013,38317,Yakijo,Topdrive,false,North Carolina
+643,776,6/12/2014,17077,Meetz,Voonder,true,Texas
+644,902,11/6/2013,52987,Topicshots,Demimbu,false,Massachusetts
+645,944,11/16/2013,46250,Realcube,Quinu,true,Minnesota
+646,866,6/18/2014,36021,Voolith,Bubblemix,false,Alabama
+647,615,1/3/2014,89941,Realbuzz,Yodo,false,California
+648,141,9/8/2014,90967,Roombo,Geba,true,Connecticut
+649,750,9/29/2014,78036,Browsezoom,Muxo,true,California
+650,625,3/19/2014,95228,Oodoo,Skivee,false,New Hampshire
+651,778,8/17/2014,3770,Voonte,Plambee,true,Illinois
+652,465,10/7/2013,72342,Podcat,Flashspan,true,Ohio
+653,447,10/6/2014,6034,Avavee,Youspan,true,Texas
+654,767,3/1/2014,34776,Feedfire,Linklinks,false,Virginia
+655,901,3/10/2014,60104,JumpXS,Mydeo,true,Massachusetts
+656,517,5/2/2014,15091,Skyvu,Aimbu,true,New Hampshire
+657,911,10/17/2013,41817,Thoughtblab,Shufflebeat,true,Ohio
+658,720,6/1/2014,13969,Photobug,Quamba,false,New York
+659,306,5/21/2014,72138,Brainbox,Zoonder,false,North Carolina
+660,136,4/12/2014,88353,Babblestorm,Wordpedia,false,Delaware
+661,407,2/26/2014,28335,Dablist,Photofeed,false,Massachusetts
+662,352,6/5/2014,66494,Mita,Topdrive,true,Virginia
+663,833,11/18/2013,93511,Realbuzz,Cogidoo,false,Connecticut
+664,708,8/30/2014,38599,Cogilith,Npath,false,Illinois
+665,306,8/17/2014,22351,Flipopia,Skajo,false,Ohio
+666,351,11/2/2013,73645,Thoughtbeat,Thoughtstorm,false,Florida
+667,107,11/25/2013,28937,Kwinu,Blogspan,false,New Jersey
+668,189,7/18/2014,92476,Trupe,Zazio,false,Ohio
+669,251,12/5/2013,7368,Zooveo,Mymm,false,Connecticut
+670,617,10/4/2014,75528,Shuffletag,Edgeify,false,Oklahoma
+671,713,6/28/2014,50725,Blogtags,Kayveo,true,Texas
+672,310,6/8/2014,76582,Tekfly,Quatz,true,Maine
+673,405,3/9/2014,83259,Twitterbridge,Plajo,false,New York
+674,371,12/28/2013,31590,Voomm,Bubblemix,true,New York
+675,504,10/30/2013,19901,Devpoint,Zazio,true,Virginia
+676,197,2/18/2014,11880,Gigazoom,Camido,true,North Carolina
+677,703,9/23/2014,83173,Tazz,Shufflebeat,true,Michigan
+678,59,4/13/2014,48436,Flashdog,Skidoo,true,California
+679,965,9/3/2014,15482,Meembee,Aimbo,true,New Jersey
+680,439,7/27/2014,19984,Kwinu,Realfire,true,Texas
+681,723,3/17/2014,39946,Eadel,Dabshots,true,Illinois
+682,849,11/7/2013,60687,Devshare,Fliptune,false,California
+683,91,8/11/2014,44492,Plambee,Flipopia,true,Ohio
+684,489,11/5/2013,2657,Trilith,Edgepulse,true,Massachusetts
+685,938,10/26/2013,66632,Photolist,Thoughtblab,true,California
+686,300,9/3/2014,38217,Vitz,Ozu,false,Ohio
+687,478,2/24/2014,27743,Thoughtmix,Brightdog,false,Michigan
+688,449,2/23/2014,25450,Yodel,Einti,false,North Carolina
+689,173,6/27/2014,93465,Avaveo,Centidel,false,North Carolina
+690,338,2/9/2014,17961,Realcube,Blogspan,true,Ohio
+691,660,6/22/2014,19990,Quamba,Dynabox,false,New York
+692,346,8/27/2014,4752,Photojam,Midel,true,Michigan
+693,425,2/12/2014,76787,Brightbean,Brainfire,true,Minnesota
+694,345,9/25/2014,39181,Janyx,Buzzshare,true,Texas
+695,451,10/26/2013,37316,Gigabox,Wikivu,false,Ohio
+696,579,4/5/2014,36595,Kazu,Tekfly,true,Illinois
+697,501,12/17/2013,53470,Skilith,Jaxworks,false,New Hampshire
+698,320,6/14/2014,9617,Flashset,Jabberstorm,false,Arkansas
+699,264,6/21/2014,36243,Thoughtsphere,Abata,true,New York
+700,71,5/21/2014,59566,Gabspot,Vimbo,true,North Carolina
+701,985,1/2/2014,83943,Babbleblab,Realblab,true,Florida
+702,23,11/18/2013,59074,Zava,Kayveo,false,Michigan
+703,285,6/13/2014,71786,Divavu,Vitz,true,Minnesota
+704,379,7/15/2014,68957,Twitterworks,Feedbug,true,Arkansas
+705,530,12/24/2013,50691,Leexo,Quire,false,Minnesota
+706,327,4/11/2014,91207,Pixonyx,Eamia,true,Massachusetts
+707,597,12/3/2013,51365,Podcat,Youtags,true,North Carolina
+708,168,7/10/2014,18166,Thoughtblab,Cogilith,false,Indiana
+709,11,5/14/2014,8855,Skiptube,Skinix,false,Texas
+710,905,6/2/2014,12843,Cogilith,Camimbo,true,California
+711,343,8/26/2014,45001,InnoZ,Kwinu,true,Ohio
+712,489,7/9/2014,10588,Leexo,Youtags,false,New Jersey
+713,106,2/17/2014,23882,Babbleopia,Gigabox,false,Michigan
+714,860,10/31/2013,41590,Zoonder,Babblestorm,true,Massachusetts
+715,900,11/15/2013,87078,Oozz,Abatz,false,Massachusetts
+716,993,12/4/2013,83136,Yotz,Thoughtbridge,false,Texas
+717,1,12/13/2013,3220,Yata,Skinte,false,Connecticut
+718,496,5/4/2014,22359,Wikizz,Gabvine,false,North Carolina
+719,114,4/11/2014,55188,Nlounge,Jabbercube,false,Indiana
+720,357,3/30/2014,32062,Cogilith,Youspan,false,Michigan
+721,117,10/11/2013,58300,Kanoodle,Wikizz,false,Connecticut
+722,82,6/22/2014,69036,Kwideo,Wikido,true,North Carolina
+723,530,7/21/2014,75380,Bluejam,Janyx,false,Delaware
+724,384,2/20/2014,96714,Gigashots,Oyondu,true,New York
+725,221,10/25/2013,12002,Innojam,Midel,false,New Jersey
+726,396,3/7/2014,12795,Tagchat,Babbleset,true,Texas
+727,909,9/13/2014,46822,Pixonyx,Vimbo,true,Massachusetts
+728,190,8/10/2014,99718,Flashpoint,Brainsphere,true,Illinois
+729,407,3/12/2014,66769,Rhybox,Teklist,true,Minnesota
+730,975,12/6/2013,62281,Aivee,Eimbee,false,New York
+731,51,2/9/2014,45697,JumpXS,Npath,false,New Jersey
+732,969,12/15/2013,65741,Yodel,Twinte,false,California
+733,706,11/7/2013,45824,Trilia,Thoughtbridge,false,Texas
+734,508,3/24/2014,282,Zoomzone,Wordpedia,false,Texas
+735,744,11/9/2013,16312,Brainsphere,Fanoodle,true,North Carolina
+736,271,4/29/2014,55782,Eazzy,Rhynyx,false,New Jersey
+737,545,11/26/2013,69742,Gabtune,Livepath,true,Texas
+738,950,6/25/2014,40622,Quatz,Edgewire,true,California
+739,767,5/24/2014,41864,Yambee,Dazzlesphere,false,California
+740,221,4/25/2014,44489,Blogtag,Skilith,true,Maine
+741,706,5/30/2014,54503,Meetz,Bluejam,true,New Jersey
+742,882,1/29/2014,76985,DabZ,Snaptags,true,Texas
+743,714,6/6/2014,71928,Gabtype,Eidel,true,New York
+744,767,2/15/2014,62328,Mycat,Skivee,false,Florida
+745,954,4/4/2014,20721,Quatz,Photolist,false,California
+746,518,11/21/2013,34346,Jabbersphere,Tambee,false,Massachusetts
+747,82,4/21/2014,79439,Quamba,Babblestorm,true,Massachusetts
+748,751,9/27/2014,99332,Zoomdog,Fivebridge,false,Texas
+749,670,12/30/2013,35673,Vimbo,Kaymbo,false,Connecticut
+750,829,6/14/2014,50987,Youspan,Abata,true,Connecticut
+751,799,4/30/2014,23124,Vinte,Jabberstorm,false,Florida
+752,635,10/9/2013,54853,Yozio,Jayo,true,California
+753,466,5/9/2014,17239,Janyx,Avaveo,true,Minnesota
+754,451,10/10/2013,35723,Devpulse,Brightdog,false,Pennsylvania
+755,386,1/17/2014,78822,Dabjam,Babbleblab,false,Florida
+756,68,3/16/2014,76837,Meedoo,Realmix,false,Massachusetts
+757,254,6/20/2014,82217,Trunyx,Yoveo,false,Florida
+758,154,1/13/2014,32706,Roomm,Skippad,false,Iowa
+759,951,2/23/2014,16190,Devshare,Jabbersphere,false,Rhode Island
+760,616,12/7/2013,52842,Skiptube,Centidel,false,Illinois
+761,63,6/4/2014,45629,Wikivu,Babbleopia,false,California
+762,307,9/19/2014,57480,Topiczoom,Edgewire,false,Illinois
+763,857,1/27/2014,42982,Skimia,Oloo,false,Illinois
+764,124,8/5/2014,64439,Geba,Fivechat,true,Texas
+765,831,2/4/2014,43573,Voolith,Pixonyx,false,California
+766,469,9/3/2014,6235,Zoomdog,Babblestorm,false,Virginia
+767,25,11/22/2013,14104,Shufflester,Izio,false,Oklahoma
+768,132,7/4/2014,97329,Skyvu,Browsezoom,true,Connecticut
+769,339,8/14/2014,62355,Gabtune,Gigabox,false,Illinois
+770,367,12/1/2013,43016,Wordware,Jamia,false,Arkansas
+771,264,12/5/2013,9425,Realpoint,Tagtune,true,California
+772,898,5/12/2014,89243,Topiclounge,Topiczoom,false,Illinois
+773,409,9/10/2014,21332,Kaymbo,Oozz,true,Florida
+774,459,12/7/2013,31789,Eayo,Tazz,true,New York
+775,385,1/1/2014,38895,Fliptune,Yodo,true,Michigan
+776,248,2/16/2014,46843,Ntag,Feedmix,true,Connecticut
+777,797,1/31/2014,60570,Meevee,Shufflester,true,Alabama
+778,38,8/1/2014,81542,Eazzy,Fivechat,true,Virginia
+779,168,5/10/2014,85457,Divanoodle,Skippad,true,New Jersey
+780,189,8/20/2014,40911,Jayo,Kanoodle,false,Ohio
+781,274,3/20/2014,6654,Browsetype,Jaxnation,false,New York
+782,270,9/6/2014,73457,Blognation,Nlounge,false,Massachusetts
+783,291,9/12/2014,59890,Zoombox,Meeveo,true,New York
+784,193,6/25/2014,45115,Feednation,Trudeo,false,New York
+785,995,11/17/2013,78777,Avavee,Devify,false,Illinois
+786,68,8/16/2014,43743,Omba,Lajo,true,California
+787,607,9/3/2014,26913,Omba,Devpulse,false,New York
+788,585,12/26/2013,66309,Zoombeat,Rooxo,false,Texas
+789,141,3/10/2014,8561,Realcube,Zoombeat,true,Illinois
+790,38,5/21/2014,70085,Bubbletube,Wikibox,false,Massachusetts
+791,198,4/19/2014,99550,Thoughtstorm,InnoZ,false,Massachusetts
+792,190,9/3/2014,81957,Plajo,Meevee,true,New Jersey
+793,687,2/17/2014,22732,Linklinks,Kare,false,Illinois
+794,556,5/12/2014,44283,Shuffledrive,Linkbuzz,false,North Carolina
+795,624,7/8/2014,25736,Yodo,Myworks,false,Virginia
+796,378,1/31/2014,64479,Einti,Trilia,false,New Jersey
+797,125,7/3/2014,25097,Zoomzone,Blogtags,false,Alabama
+798,571,11/30/2013,68116,Skyvu,Jabberbean,true,Michigan
+799,369,3/13/2014,646,Oozz,Skynoodle,true,California
+800,629,12/23/2013,36165,Avaveo,Yodoo,true,Texas
+801,623,7/11/2014,95807,Eidel,Dynabox,true,Illinois
+802,498,5/15/2014,48181,Twinder,Blogpad,false,Ohio
+803,709,8/6/2014,23534,Abata,Youspan,true,Texas
+804,801,7/11/2014,983,Miboo,Linkbridge,false,California
+805,362,8/15/2014,87036,Divape,Voonix,true,New York
+806,247,7/9/2014,34948,Zoovu,Bubbletube,false,New York
+807,710,5/24/2014,21441,Trunyx,Yata,false,New York
+808,829,11/14/2013,64195,Twimbo,Jaxbean,false,Illinois
+809,968,12/20/2013,46154,Brainverse,Vinder,false,Illinois
+810,943,12/4/2013,61650,Kwideo,Twiyo,false,California
+811,579,12/10/2013,56545,Brainverse,Zoombeat,true,Iowa
+812,69,2/11/2014,19606,Yodo,Tazz,false,Illinois
+813,11,1/1/2014,80525,Eidel,Twinder,true,California
+814,889,11/10/2013,35355,Vimbo,Yakijo,true,Texas
+815,193,3/21/2014,15129,Realbridge,Pixonyx,false,New Jersey
+816,833,6/14/2014,23800,Edgetag,Kanoodle,true,Massachusetts
+817,679,11/4/2013,95264,Photolist,Avaveo,false,New York
+818,39,3/28/2014,10919,Mymm,Thoughtstorm,true,Indiana
+819,13,9/18/2014,83892,Fanoodle,Browseblab,true,California
+820,458,1/18/2014,17132,Quinu,Camimbo,false,Oklahoma
+821,161,1/10/2014,6037,Skiba,Lazz,true,Florida
+822,926,10/10/2013,30538,Plambee,Brainlounge,false,Illinois
+823,39,11/13/2013,96770,Bubblebox,Twitterbridge,false,New Hampshire
+824,457,10/20/2013,45713,Zooxo,Topiclounge,true,New Hampshire
+825,436,10/28/2013,49992,Wikibox,Jamia,false,Illinois
+826,784,1/27/2014,53449,Livetube,Yambee,false,Michigan
+827,320,10/27/2013,68470,Gabspot,Brainbox,false,North Carolina
+828,55,3/26/2014,58276,Ntags,Plambee,true,New York
+829,24,12/20/2013,35288,Jetpulse,Vimbo,true,Illinois
+830,564,11/20/2013,16811,Browsebug,Fanoodle,true,Iowa
+831,58,5/16/2014,80869,Devpulse,Kazu,false,Minnesota
+832,650,6/17/2014,71466,Buzzster,Abatz,false,Illinois
+833,792,3/29/2014,80547,Skyndu,Wordify,true,Missouri
+834,696,12/13/2013,47105,Meeveo,Kazu,false,North Carolina
+835,908,3/16/2014,26859,Skiptube,Pixope,false,Iowa
+836,504,10/24/2013,70192,Vinder,Feedspan,true,New Jersey
+837,938,2/17/2014,60594,Leenti,LiveZ,true,Connecticut
+838,635,10/9/2013,83390,Lajo,Skippad,false,Virginia
+839,187,9/15/2014,64969,Jaxspan,Centizu,false,Colorado
+840,525,9/3/2014,91080,Trilia,Meejo,true,California
+841,862,2/17/2014,71099,Flashdog,Nlounge,false,Texas
+842,283,8/20/2014,10803,Tazzy,Kanoodle,true,Indiana
+843,722,2/7/2014,46205,Skiba,Thoughtbeat,true,Florida
+844,35,10/13/2013,4961,Fivechat,Trilith,true,Virginia
+845,176,12/31/2013,94505,Shuffletag,Skinder,true,Ohio
+846,500,11/11/2013,85601,Photofeed,Meemm,false,Illinois
+847,71,8/22/2014,19785,Linkbridge,Jayo,true,Texas
+848,331,3/7/2014,6166,Oba,Voolia,false,Ohio
+849,451,6/27/2014,66235,Jaxspan,Geba,true,Indiana
+850,397,11/3/2013,42696,Mynte,Ntag,false,Illinois
+851,602,6/8/2014,50312,Topicstorm,Devify,false,Minnesota
+852,41,4/18/2014,25938,Youfeed,Fadeo,true,Oklahoma
+853,605,12/25/2013,19713,Blogpad,Dazzlesphere,false,Massachusetts
+854,125,1/29/2014,88972,Voonix,Twitterlist,true,Pennsylvania
+855,4,12/16/2013,34368,Skinder,Topdrive,true,Virginia
+856,549,3/7/2014,96126,Yozio,Rhyloo,true,Arkansas
+857,864,9/13/2014,25587,Skipstorm,Voolia,false,New Jersey
+858,76,10/12/2013,75525,Eadel,Voolia,true,Texas
+859,486,10/7/2013,22984,Blogspan,Blogpad,false,Pennsylvania
+860,196,10/11/2013,15741,Jabbertype,Wikibox,false,New Jersey
+861,221,1/11/2014,86122,Omba,Oba,false,New Jersey
+862,534,8/18/2014,311,Aivee,Realbridge,false,Texas
+863,126,5/11/2014,79364,Nlounge,Vinte,false,California
+864,865,9/2/2014,51110,Meedoo,Kwideo,true,Illinois
+865,144,6/28/2014,6920,Dablist,Vinte,true,Ohio
+866,230,4/19/2014,66478,Ainyx,Browsebug,false,Ohio
+867,745,10/6/2014,40037,Kazu,Youtags,false,Ohio
+868,812,5/16/2014,18544,Thoughtstorm,Gigashots,false,Ohio
+869,442,11/26/2013,45582,Innojam,Gigabox,true,Massachusetts
+870,644,6/21/2014,77255,Meembee,Trilith,true,Oklahoma
+871,653,9/8/2014,80376,Ozu,Cogidoo,false,Pennsylvania
+872,389,6/7/2014,6331,Cogidoo,Buzzshare,true,Texas
+873,126,4/22/2014,43955,Oba,Yodel,true,New Jersey
+874,305,5/12/2014,4863,Aimbo,Meedoo,true,Massachusetts
+875,722,2/28/2014,27971,Yakijo,Devpulse,false,Connecticut
+876,762,1/21/2014,17687,Blogtags,Trudoo,true,California
+877,426,12/8/2013,18748,Topiczoom,Camimbo,false,New Jersey
+878,859,8/25/2014,83010,Topicshots,Miboo,false,Massachusetts
+879,399,1/11/2014,34757,Jabberstorm,Dazzlesphere,false,Minnesota
+880,710,11/27/2013,25802,Wikibox,Gabvine,true,New Jersey
+881,676,12/27/2013,76665,Flipbug,Shufflebeat,false,Michigan
+882,136,2/24/2014,78197,Reallinks,Kwideo,true,Virginia
+883,937,10/6/2014,71690,Oyondu,Kwilith,false,New Jersey
+884,149,9/1/2014,81027,Cogilith,Mynte,true,New Jersey
+885,939,4/8/2014,58216,Yombu,Flipbug,true,Texas
+886,789,11/16/2013,17705,Snaptags,Skalith,false,Oklahoma
+887,610,3/14/2014,99575,Babbleopia,Divavu,false,New York
+888,771,6/14/2014,17996,Aimbo,Thoughtstorm,true,Florida
+889,106,5/3/2014,31705,Jaloo,Twinder,true,New Hampshire
+890,41,2/18/2014,59468,Tekfly,Mycat,true,Illinois
+891,316,1/31/2014,56885,Minyx,Devshare,false,California
+892,584,8/9/2014,6331,Kare,Oozz,true,Ohio
+893,546,10/26/2013,51650,Eabox,Youopia,true,Ohio
+894,214,5/30/2014,35970,Feedspan,Vitz,false,Ohio
+895,122,7/27/2014,91237,Geba,Edgepulse,false,North Carolina
+896,901,3/1/2014,46519,Rhycero,Aibox,true,Massachusetts
+897,32,5/19/2014,68448,Brainbox,Realpoint,false,Texas
+898,369,5/28/2014,40450,Realbridge,Zoonoodle,false,Minnesota
+899,591,9/27/2014,41620,Photobean,Fivechat,true,Florida
+900,362,4/9/2014,29108,Kanoodle,Leexo,true,Connecticut
+901,727,11/16/2013,195,Browsedrive,Voomm,false,Illinois
+902,255,4/18/2014,75886,Camido,Vinder,true,Massachusetts
+903,110,7/22/2014,89687,Wikivu,Avamm,false,Massachusetts
+904,621,3/15/2014,92414,Blogpad,Dabvine,false,Minnesota
+905,522,4/22/2014,81578,Thoughtstorm,Gabtune,true,Florida
+906,974,1/11/2014,97840,Avavee,Flashpoint,true,New York
+907,964,5/5/2014,41238,Edgetag,Roodel,true,Arkansas
+908,155,2/15/2014,39200,Thoughtsphere,Feedmix,false,Massachusetts
+909,258,5/18/2014,99268,Aimbu,Edgetag,true,California
+910,554,7/15/2014,38710,Flipopia,Meemm,false,Ohio
+911,625,11/7/2013,92483,Gigabox,Jazzy,true,New York
+912,813,8/16/2014,7816,Kazio,Skynoodle,true,California
+913,562,4/4/2014,36489,Realbuzz,Zooveo,false,Pennsylvania
+914,812,1/6/2014,16775,Realbuzz,Mydo,true,Virginia
+915,957,6/25/2014,41737,Fanoodle,Linktype,false,Florida
+916,412,3/31/2014,86344,Realbuzz,Realcube,true,North Carolina
+917,628,1/16/2014,36822,Jabbersphere,Twimm,true,Virginia
+918,591,2/15/2014,88475,Kimia,Myworks,true,Minnesota
+919,975,7/29/2014,22512,Minyx,Rooxo,false,Florida
+920,793,12/13/2013,56875,Abatz,Jaxnation,false,Michigan
+921,818,5/11/2014,78338,Edgeblab,Agimba,false,New York
+922,174,7/22/2014,62466,Digitube,Skyndu,true,California
+923,860,1/21/2014,62079,Zoomzone,Jaxspan,false,Arkansas
+924,211,3/12/2014,17303,Rhycero,Voonte,true,New York
+925,517,4/4/2014,38991,Voonix,Browsezoom,true,Massachusetts
+926,120,7/18/2014,37159,Aimbu,Thoughtbeat,false,California
+927,181,10/1/2014,31020,Oba,Babbleblab,false,North Carolina
+928,478,3/26/2014,50618,Vinder,Gabcube,false,California
+929,64,6/21/2014,33440,Devpulse,Oyoba,false,Texas
+930,989,10/2/2014,38199,Devpoint,LiveZ,true,California
+931,824,9/6/2014,41616,Voolith,Kwinu,false,Connecticut
+932,534,3/17/2014,31617,Flashset,Fatz,true,California
+933,103,5/29/2014,40624,Aibox,Tavu,false,Connecticut
+934,238,10/22/2013,42357,Linkbuzz,Voolia,false,New Jersey
+935,797,7/18/2014,90596,Teklist,Ainyx,false,North Carolina
+936,211,4/16/2014,79187,Jayo,Divanoodle,false,Michigan
+937,227,6/10/2014,75253,Voolith,Eadel,false,Indiana
+938,889,4/19/2014,54190,Oodoo,Buzzdog,false,Florida
+939,744,9/27/2014,61065,Mudo,Jabbersphere,true,California
+940,973,9/5/2014,94746,Vinte,Youtags,false,Texas
+941,988,10/28/2013,68034,Jaxnation,Talane,false,Florida
+942,703,12/3/2013,17452,Ntags,Youfeed,false,Texas
+943,235,4/21/2014,99401,Jabbertype,Layo,false,Minnesota
+944,944,3/29/2014,2395,Feedfire,Oozz,true,Virginia
+945,77,12/31/2013,68757,Babbleblab,Npath,true,Ohio
+946,417,4/14/2014,27137,Tazzy,Skalith,true,Texas
+947,116,9/18/2014,33092,Quinu,Nlounge,false,New York
+948,854,6/29/2014,14043,Wikizz,Innojam,true,Alabama
+949,363,10/1/2014,27359,Jaxbean,DabZ,true,North Dakota
+950,369,5/3/2014,6974,Photobean,Npath,true,Arkansas
+951,297,2/6/2014,60382,Divanoodle,Leenti,true,Ohio
+952,396,9/21/2014,11399,Skinder,Kazio,true,Illinois
+953,970,1/13/2014,22385,Wikibox,Kazio,true,Massachusetts
+954,179,4/2/2014,37486,Photospace,Oyoba,true,North Carolina
+955,908,5/14/2014,46126,Oyoyo,Riffpath,false,Indiana
+956,724,7/25/2014,73609,Zoonoodle,Yadel,false,Florida
+957,956,12/21/2013,2747,Thoughtstorm,Dynabox,true,New York
+958,906,12/12/2013,9968,Brightdog,Dynazzy,true,California
+959,489,2/5/2014,20390,Quinu,Mudo,false,Connecticut
+960,334,11/23/2013,63181,Blogpad,Dablist,true,New Jersey
+961,464,6/2/2014,71492,Ntags,Feedfish,false,Virginia
+962,128,3/8/2014,39956,Twitterbeat,Skimia,false,
+963,886,4/1/2014,91868,Yotz,Ntag,false,Colorado
+964,576,7/8/2014,36089,Zoomlounge,Zoomzone,false,Oklahoma
+965,254,11/26/2013,53991,Centidel,Blogspan,false,Pennsylvania
+966,981,2/10/2014,5875,Skajo,Pixoboo,true,Alabama
+967,282,8/11/2014,54610,Blogtag,Thoughtworks,false,California
+968,902,10/22/2013,47707,Zoovu,Realbuzz,false,Maine
+969,464,10/25/2013,43971,Dynava,Kazu,true,Alabama
+970,182,6/10/2014,56847,Dynabox,Dynazzy,true,North Carolina
+971,184,3/12/2014,19217,Dablist,Jabberstorm,true,Illinois
+972,166,8/28/2014,55587,Skipstorm,Ntag,false,Minnesota
+973,705,6/4/2014,60069,Browsetype,Babbleset,true,Texas
+974,614,8/18/2014,21882,Babblestorm,Trilith,false,Texas
+975,197,10/5/2014,75183,Ntags,Oyoloo,true,New York
+976,601,9/27/2014,64449,Quatz,Omba,true,Arkansas
+977,842,5/22/2014,56007,Gabtype,Browsetype,false,California
+978,870,5/26/2014,9723,Brainsphere,Janyx,false,California
+979,133,12/10/2013,92891,Zoomcast,Tagcat,false,New Hampshire
+980,959,11/18/2013,12618,Avamm,Youbridge,true,New Jersey
+981,549,5/8/2014,22322,Myworks,Feedfire,false,North Carolina
+982,175,2/14/2014,27773,Aimbu,Aimbu,true,Texas
+983,763,9/8/2014,66769,Plajo,Linkbuzz,false,Michigan
+984,866,10/16/2013,90526,Fadeo,Kanoodle,true,Ohio
+985,53,10/4/2014,5540,Skippad,Meeveo,false,Texas
+986,162,3/28/2014,36091,Lazz,Agimba,false,Oklahoma
+987,862,11/15/2013,81754,Npath,Fatz,true,Virginia
+988,302,4/30/2014,83923,Bubblemix,Bubbletube,true,California
+989,55,10/5/2014,96497,Zoomdog,Realbuzz,true,Minnesota
+990,984,1/9/2014,78656,Gigaclub,Thoughtbridge,false,Ohio
+991,486,4/30/2014,69188,Ntags,Janyx,false,Ohio
+992,117,4/20/2014,75454,Quire,Wikizz,true,Alabama
+993,31,1/14/2014,24054,Youtags,Vidoo,false,Illinois
+994,661,9/30/2014,90605,Tagpad,Minyx,false,California
+995,37,12/18/2013,89973,Zoomdog,Omba,false,Virginia
+996,789,6/9/2014,98474,Ailane,Roodel,true,Texas
+997,856,4/6/2014,27264,Brightdog,Photobean,true,Connecticut
+998,851,11/9/2013,19190,Avamm,Rhynyx,false,Arkansas
+999,222,8/26/2014,39904,Camimbo,Voonte,true,New Jersey
+1000,867,8/24/2014,15103,Browsedrive,Rhycero,false,Pennsylvania
